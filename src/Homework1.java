@@ -12,7 +12,7 @@ public class Homework1 {
         System.out.println(firstname + Lastname); // using parameter
         System.out.println(" Mobile number 07492222757 "); // using non parameter
         System.out.println(" Age " + age );
-        System.out.println ( " salary £ " + salary );
+
         System.out.println(" dixit " + " kachhia " + " is " +  age + " year old" );// string concatenating
     }
 }
